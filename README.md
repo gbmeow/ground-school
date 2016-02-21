@@ -18,6 +18,19 @@ Note: The drag will be slower to slow you down, then the lift you will be gettin
 [Add flaps for more lift - Why?](http://www.boldmethod.com/blog/2013/10/how-does-lowering-flaps-affect-angle-of-attack/)
     
 
+### Stall speed due to load factor 
+    45 bank 
+    80 bank 
+Reaction from pilot: Increase lift via airspeed (nose up -- do not exeed critical angle of attack)
+
+
+### Lift in decent vs. climb 
+Air speed: 70 kts 
+Reaction from pilot:
+    Climb - 
+    Descend - 
+Are we getting the same lift?
+
 ### Flying upside down 
 Reaction from pilot: Increase AOA upside down && push nose down
 
@@ -31,11 +44,6 @@ Reaction from pilot: Anticipate the coupling of movement -
 
 ## Emergancy Training 
 ### Pitch stability lost (no functioning elevator)
-
-### Stall speed due to load factor 
-    45 bank 
-    80 bank 
-Reaction from pilot: Increase lift (do not exeed critical angle of attack)
 
 ### GO around - failed approach 
 Reaction from pilot: Retract flaps in stages, otherwise you will loose a lot of lift 
