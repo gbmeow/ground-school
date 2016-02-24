@@ -52,4 +52,16 @@ Reaction from pilot: Retract flaps in stages, otherwise you will loose a lot of 
 ### Engine quits - why we cannot stay in level flight 
     Why are we getting spin?
     
+### Left Fuel Tank failure 
+Reaction from pilot: switch fuel tanks 
+
+### Random 
+1. NO drop in RPM if you swithc mags from both to left (failed mag)
+2. Loss of power due to mag 
+3. Icing build up 
     
+    
+## POH Checks 
+1. Oil limits 
+2. Match POH for fuel flow (in specific leaning mixture configs)
+3. Circuit breakers
