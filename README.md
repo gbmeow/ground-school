@@ -62,6 +62,9 @@ Reaction from pilot: switch fuel tanks
     
     
 ## POH Checks 
-1. Oil limits 
-2. Match POH for fuel flow (in specific leaning mixture configs)
-3. Circuit breakers
+1. [*]Oil limits - in Systems (7-21) 
+2. []Match POH for fuel flow (in specific leaning mixture configs)
+3. [*]Circuit breakers
+
+## Questions 
+1. magneto circuit breaker?
