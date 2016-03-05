@@ -59,6 +59,10 @@ Reaction from pilot: switch fuel tanks
 1. NO drop in RPM if you swithc mags from both to left (failed mag)
 2. Loss of power due to mag 
 3. Icing build up 
+
+
+### 
+1. You went too fast - you accidently did full flaps - you damanged them - now you have asymetric lift - get back to the ground
     
     
 ## POH Checks 
